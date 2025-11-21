@@ -47,7 +47,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
       weight = 5
       
 [params]
-  profilePicture = "images/firefly.png"
+  profilePicture = "images/firefly.jpg"
   enableDarkMode = true
   
   [[params.social]]
