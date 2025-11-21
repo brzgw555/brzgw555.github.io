@@ -1,4 +1,4 @@
-baseURL = 'https://geekifan.github.io/zero-academic-page-starter/'
+baseURL = 'https://brzgw555.github.io'
 title = 'Zero'
 
 # multi-language support
@@ -21,7 +21,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
     title = 'Zero'
 
     [languages.en.params]
-      author = "Lorem ipsum"
+      author = "Xinzhe Wu"
       description = "Ph.D Student in [Lorem ipsum College](https://example.com). Focusing on Computer Vision and Deep Learning."
       motto = "Most things in the world are not that important. But truth and love matter."
     
