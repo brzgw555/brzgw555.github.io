@@ -22,8 +22,8 @@ disableKinds = ["taxonomy", "term", "RSS"]
 
     [languages.en.params]
       author = "Xinzhe Wu"
-      description = "Ph.D Student in [Lorem ipsum College](https://example.com). Focusing on Computer Vision and Deep Learning."
-      motto = "Most things in the world are not that important. But truth and love matter."
+      description = "An undergraduate in [Peking University](https://pku.edu.com),zhi-class.ai(https://zhi-class.ai/zh-cn/)."
+      motto = "Go bold to mess up , go eager to err."
     
     [[languages.en.menu.main]]
       name = 'About Me'
