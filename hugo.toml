@@ -22,7 +22,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
 
     [languages.en.params]
       author = "Xinzhe Wu"
-      description = "An undergraduate in [Peking University](https://pku.edu.com),zhi-class.ai(https://zhi-class.ai/zh-cn/)."
+      description = "An undergraduate in [Peking University](https://pku.edu.com),[zhi-class.ai](https://zhi-class.ai/zh-cn/)."
       motto = "Go bold to mess up , go eager to err."
     
     [[languages.en.menu.main]]
