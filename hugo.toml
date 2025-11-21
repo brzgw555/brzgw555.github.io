@@ -47,29 +47,19 @@ disableKinds = ["taxonomy", "term", "RSS"]
       weight = 5
       
 [params]
-  profilePicture = "images/profile.png"
+  profilePicture = "images/firefly.png"
   enableDarkMode = true
   
   [[params.social]]
     name = "github"
-    url = "https://github.com/"
-    icon = "fab fa-github"
-  [[params.social]]
-    name = "google-scholar"
-    url = "https://scholar.google.com/"
-    icon = "fab fa-google-scholar"
+    url = "https://github.com/brzgw555"
+    icon = "fab fa-fw fa-github"
   [[params.social]]
     name = "email"
-    url = "mailto:example@example.com"
+    url = "mailto:2400013093@stu.pku.edu.cn"
     icon = "fas fa-envelope"
-  [[params.social]]
-    name = "linkedin"
-    url = "https://linkedin.com/"
-    icon = "fab fa-linkedin"
-  [[params.social]]
-    name = "zhihu"
-    url = "https://zhihu.com/"
-    icon = "fab fa-zhihu"
+
+
 
 [build]
   writeStats = false
