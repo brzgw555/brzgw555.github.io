@@ -14,5 +14,5 @@ I'm an undergraduate at Peking University , zhi-class.ai , majoring Intelligent 
 
 
 # 📖 Educations {#educations}
-- *2024.09 - * Undergraduate in Computer Science | [zhi-class.ai](https://zhi-class.ai/zh-cn/) in [School of EECS]((https://eecs.pku.edu.cn/)) ,Peking University ,China
+- *2024.09 - * Undergraduate in Computer Science | [zhi-class.ai](https://zhi-class.ai/zh-cn/) in [School of EECS](https://eecs.pku.edu.cn/) ,Peking University ,China
 
