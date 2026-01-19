@@ -10,6 +10,7 @@ I'm an undergraduate at Peking University , zhi-class.ai , majoring Intelligent 
 
 # 🎖 Honors and Awards {#honors-and-awards}
 
+- *2025.10*  Scholarship of zhi-class.ai, Peking University
 - *2023.12*  Silver Medal in 39th Chinese Mathematical Olympiad(CMO)
 
 
