@@ -4,7 +4,7 @@ title: "Xinzhe Wu"
 
 # About Me {#about-me}
 
-I'm an undergraduate at Peking University , zhi-class.ai , majoring Intelligent Science and Technology, Department of Computer Science.
+I'm an undergraduate at Peking University , zhi-class.ai , majoring Intelligent Science and Technology, Department of Computer Science. My personal blog is [blog](https://trailblazerwu.me)
 
 
 
